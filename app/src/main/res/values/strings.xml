@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FocusTime Launcher</string>
+    <string name="accessibility_service_description">Monitors app usage to enforce time limits and help reduce phone addiction.</string>
+    <string name="how_long">How long do you want to use this app?</string>
+    <string name="time_5">5 minutes</string>
+    <string name="time_10">10 minutes</string>
+    <string name="time_20">20 minutes</string>
+    <string name="custom_time">Custom time</string>
+    <string name="time_up_message">Your time for %1$s is over.</string>
+    <string name="close_app">Close app</string>
+    <string name="add_2_min">Add 2 minutes</string>
+    <string name="add_5_min">Add 5 minutes</string>
+</resources>
